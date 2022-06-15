@@ -18,7 +18,7 @@ public class Prueba {
 		return prueba;
 	}
 
-	public void setPrueba(int prueba) {
+	public void setPrueba(int prueba, int prueba3, int prueba4) {
 		this.prueba = prueba;
 	}
 	
